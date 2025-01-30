@@ -1,0 +1,23 @@
+{
+  "name": "kira-theme",
+  "displayName": "Kira Theme",
+  "publisher": "pnemonic",
+  "description": "Red is for errors. Blue is for sky, for water.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "publisher": "cromeoli",
+        "label": "Kira",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kira-color-theme.json"
+      }
+    ]
+  }
+}
