@@ -2,8 +2,8 @@
   "name": "kira-theme",
   "displayName": "Kira Theme",
   "publisher": "pnemonic",
-  "description": "Red is for errors. Blue is for sky, for water.",
-  "version": "0.0.1",
+  "description": "Errors are red, functions are blue. Other theme users will be confused, not you.",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.96.0"
   },
