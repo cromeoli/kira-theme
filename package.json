@@ -2,8 +2,9 @@
   "name": "kira-theme",
   "displayName": "Kira Theme",
   "publisher": "pnemonic",
+  "repository": "https://github.com/cromeoli/kira-theme.git",
   "description": "Errors are red, functions are blue. Other theme users will be confused, not you.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.96.0"
   },
@@ -19,5 +20,6 @@
         "path": "./themes/Kira-color-theme.json"
       }
     ]
-  }
+  },
+  "license": "MIT"
 }
