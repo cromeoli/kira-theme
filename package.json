@@ -2,9 +2,12 @@
   "name": "kira-theme",
   "displayName": "Kira Theme",
   "publisher": "pnemonic",
-  "repository": "https://github.com/cromeoli/kira-theme.git",
-  "description": "Errors are red, functions are blue. Other theme users will be confused, not you.",
-  "version": "0.0.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cromeoli/kira-theme.git"
+  },
+  "description": "Errors are red, functions are blue. Other theme users will be confused, not you. Living vibrant elements over the cyberspace void.",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.96.0"
   },
@@ -14,12 +17,21 @@
   "contributes": {
     "themes": [
       {
-        "publisher": "cromeoli",
         "label": "Kira",
         "uiTheme": "vs-dark",
         "path": "./themes/Kira-color-theme.json"
       }
     ]
   },
-  "license": "MIT"
+  "icon": "img/icon.png",
+  "galleryBanner": {
+    "color": "#0A0A0A",
+    "theme": "dark"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/cromeoli/kira-theme/blob/main/README.md",
+  "bugs": {
+    "url": "https://github.com/cromeoli/kira-theme/issues"
+  }
 }
+
