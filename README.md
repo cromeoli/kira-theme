@@ -38,9 +38,9 @@ Kira Theme is a dark theme for VSCode designed with both an aesthetic and functi
 
 - 📜 **Design for readability**: Designed to quickly associate each element of the code to a colour with a logical basis, avoiding red colours that we could unconsciously associate to errors or mistakes. *Blue* for functions and variables (high degree of abstraction). *Green* for strings (usually the most human element of the code) and *pink* for numbers (concrete representations).
 
-- 🖥  **Immersive interface**: Representing a window into cyberspace, the colours of *Kira* have been intentionally selected to immerse you in a cyberpunk night when programming.
+- 📟 **Immersive interface**: Representing a window into cyberspace, the colours of *Kira* have been intentionally selected to immerse you in a cyberpunk night when programming.
 
--  **Less eyestrain**: Based on a balanced dark scheme with vibrant and contrast-calibrated colors (Using [Coolors Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5)) for long coding sessions.
+- 🌙 **Less eyestrain**: Based on a balanced dark scheme with vibrant and contrast-calibrated colors (Using [Coolors Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5)) for long coding sessions.
 
 This theme represents my vision of the code, imbued by personal aspects such as my love for cyberpunk and the retro-futuristic vision of technology as depicted in sci-fi/action films like *Robocop*, *Demolition Man* or *Johnny Mnemonic*, which so deeply touched me.
 
