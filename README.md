@@ -34,7 +34,7 @@ Kira Theme is a dark theme for VSCode designed with both an aesthetic and functi
 
 ### Main features:
 
-- 🎨 **Optimised Kira Palette**: Kira has been created using the eponymous ‘[Kira Color Palette](https://github.com/cromeoli/kira-color-palette)’ colour palette of cool colours and pure black tones representing living code over the void of cyberspace.
+- 🎨 **Optimised Kira Palette**: Kira has been created using my eponymous ‘[Kira Color Palette](https://github.com/cromeoli/kira-color-palette)’, colour palette of cool colours and pure black tones representing living code over the void of cyberspace.
 
 - 📜 **Design for readability**: Designed to quickly associate each element of the code to a colour with a logical basis, avoiding red colours that we could unconsciously associate to errors or mistakes. *Blue* for functions and variables (high degree of abstraction). *Green* for strings (usually the most human element of the code) and *pink* for numbers (concrete representations).
 
