@@ -1,14 +1,12 @@
 <div align="center">
     <h1>Kira Color Theme</h1>
-    <img width="300px" src="./img/icon.png" alt="Logo" width="800"/>
+    <img width="300px" src="https://github.com/user-attachments/assets/22808c0e-486b-4aaf-8fc8-c2a1016077e1" alt="Logo" width="800"/>
     <p><i>Errors are red, functions are blue. Other theme users will be confused, not you.</i></p>
 </div>
 
 
 
-<img width="100%" src="./screenshots/cpp-screenshot.png" alt="Logo" width="800"/>
-
-- - -
+<img width="100%" src="https://github.com/user-attachments/assets/56a5cbeb-021e-439e-99ec-76ea8ccb46b8" alt="Logo" width="800"/>
 
 ## Installation
 
