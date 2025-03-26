@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Kira Color Theme</h1>
-    <img width="300px" src="./img/icon.svg" alt="Logo" width="800"/>
+    <img width="300px" src="./img/icon.png" alt="Logo" width="800"/>
     <p><i>Errors are red, functions are blue. Other theme users will be confused, not you.</i></p>
 </div>
 
