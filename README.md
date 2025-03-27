@@ -22,7 +22,7 @@
 
 ## Installation
 
-You can install this theme via the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=kira-theme).
+You can install this theme via the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=pnemonic.kira-theme).
 
 Or install it manually by cloning this repository and running:
 
