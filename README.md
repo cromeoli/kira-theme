@@ -54,4 +54,4 @@ Kira Theme is a dark theme for VSCode designed with both an aesthetic and functi
 
 This theme represents my vision of the code, imbued by personal aspects such as my love for cyberpunk and the retro-futuristic vision of technology as depicted in sci-fi/action films like *Robocop*, *Demolition Man* or *Johnny Mnemonic*, which so deeply touched me.
 
-If you want to know more about the development process of this project, I have [an article]() about that on my personal blog [*El Crisol*](https://crisol.netlify.app/posts/kira/).
+If you want to know more about the development process of this project, I have [an article](https://crisol.netlify.app/posts/kira/) about that on my personal blog [*El Crisol*](https://crisol.netlify.app).
