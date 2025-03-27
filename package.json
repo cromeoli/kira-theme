@@ -7,7 +7,7 @@
     "url": "https://github.com/cromeoli/kira-theme.git"
   },
   "description": "Errors are red, functions are blue. Other theme users will be confused, not you. Living vibrant elements over the cyberspace void.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.96.0"
   },
@@ -24,6 +24,22 @@
     ]
   },
   "icon": "img/icon.png",
+  "keywords": [
+    "dark",
+    "dark-theme",
+    "color-theme",
+    "vscode-theme",
+    "vscode",
+    "cyberpunk",
+    "minimal",
+    "high-contrast",
+    "editor-theme",
+    "best-theme",
+    "aesthetic",
+    "night",
+    "immersive",
+    "futuristic"
+  ],
   "galleryBanner": {
     "color": "#0A0A0A",
     "theme": "dark"
