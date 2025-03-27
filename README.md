@@ -1,16 +1,28 @@
 <div align="center">
     <h1>Kira Color Theme</h1>
-    <img width="300px" src="https://github.com/user-attachments/assets/22808c0e-486b-4aaf-8fc8-c2a1016077e1" alt="Logo" width="800"/>
+    <img width="300px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/92324278/427264070-22808c0e-486b-4aaf-8fc8-c2a1016077e1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250326%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250326T233923Z&X-Amz-Expires=300&X-Amz-Signature=4b90bdd8e5b2fedfa01c292e2926cb1cc94cd48702d0e7d5b89a4c1a738dc0a0&X-Amz-SignedHeaders=host" alt="Logo" width="800"/>
     <p><i>Errors are red, functions are blue. Other theme users will be confused, not you.</i></p>
 </div>
 
+<img width="100%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/92324278/427283267-96a482ff-a84d-4e02-b7ae-f34163bbff5c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250327%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250327T003838Z&X-Amz-Expires=300&X-Amz-Signature=279ad4f9e7abc88022dd773a662e052b31f3c2594f5ce8bdd7f674440c60b171&X-Amz-SignedHeaders=host" alt="Logo" width="800"/>
 
+## Syntax Highlight Examples
 
-<img width="100%" src="https://github.com/user-attachments/assets/56a5cbeb-021e-439e-99ec-76ea8ccb46b8" alt="Logo" width="800"/>
+#### Python
+
+<div align="center">
+    <img width="50%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/92324278/427283930-1cf7a8e0-4c04-4adc-acdb-415380263396.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250327%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250327T004042Z&X-Amz-Expires=300&X-Amz-Signature=506a809a8adabbcb9cef33c41e8e97f3fe4e80efa1911c7298ea87fbc4d72507&X-Amz-SignedHeaders=host"/>
+</div>
+
+#### C++
+
+<div align="center">
+    <img width="50%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/92324278/427284669-9424d013-4a55-43a6-9aee-7bc506b555ef.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250327%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250327T004302Z&X-Amz-Expires=300&X-Amz-Signature=174dd8f29703a9bada517329671dea16e8caef9dfc09b909919ff635653ea969&X-Amz-SignedHeaders=host"/>
+</div>
 
 ## Installation
 
-You can install this theme via the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=TU_NOMBRE_DE_PUBLICACION).
+You can install this theme via the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=kira-theme).
 
 Or install it manually by cloning this repository and running:
 
