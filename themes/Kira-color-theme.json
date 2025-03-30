@@ -1485,6 +1485,16 @@
 			}
 		},
 		{
+			"name": "HTML tag punctuation",
+			"scope": [
+			  	"punctuation.definition.tag.begin.html",
+			  	"punctuation.definition.tag.end.html"
+			],
+			"settings": {
+			  "foreground": "#6172FB"
+			}
+		},
+		{
 			"name": "styling css pseudo-elements/classes to be able to differentiate from classes which are the same colour",
 			"scope": [
 				"entity.other.attribute-name.pseudo-element",
