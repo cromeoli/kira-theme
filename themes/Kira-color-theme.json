@@ -1495,6 +1495,16 @@
 			}
 		},
 		{
+			"name": "JSX tag punctuation",
+			"scope": [
+				"punctuation.definition.tag.begin.tsx",
+				"punctuation.definition.tag.end.tsx"
+			],
+			"settings": {
+				"foreground": "#6172FB"
+			}
+		},
+		{
 			"name": "styling css pseudo-elements/classes to be able to differentiate from classes which are the same colour",
 			"scope": [
 				"entity.other.attribute-name.pseudo-element",
